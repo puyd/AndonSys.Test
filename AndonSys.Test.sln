@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndonSys.Common", "AndonSys.Common\AndonSys.Common.csproj", "{D6C8BFD3-C530-4716-AF86-87881CDBA4B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndonSys.TestCard", "AndonSys.TestCard\AndonSys.TestCard.csproj", "{678C7F95-0FD6-43A4-BE7E-DDD6CAFA9A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndonSys.VRCard", "AndonSys.VRCard\AndonSys.VRCard.csproj", "{FAFB7B4E-72FD-4685-B4D4-984114594215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndonSys.TestBarCode", "AndonSys.TestBarCode\AndonSys.TestBarCode.csproj", "{929749DF-53CE-4F4F-8FC3-0CC368FF8DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndonSys.Report", "AndonSys.Report\AndonSys.Report.csproj", "{EBCDD9BE-2B63-4DAA-BB18-C77E0FFF18ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndonSys.TestLed", "AndonSys.TestLed\AndonSys.TestLed.csproj", "{36F3E7C0-A057-4139-8B02-EF43A3A91656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndonSys.AppHelper", "AndonSys.AppHelper\AndonSys.AppHelper.csproj", "{56361434-98BE-4E50-9107-4C7160958A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndonSys.Patch", "AndonSys.Patch\AndonSys.Patch.csproj", "{6BEA9337-3D07-4BD0-8285-60E4FEF17085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndonSys.TestModbus", "AndonSys.TestModbus\AndonSys.TestModbus.csproj", "{ADF81B3E-A843-4EA0-A865-B339FEE8A209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andonsys.TestRFID", "Andonsys.TestRFID\Andonsys.TestRFID.csproj", "{1E7F88B6-AD3C-49F9-B2D8-3AD8FEC0831A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndonSys.JMHelper", "AndonSys.JMHelper\AndonSys.JMHelper.csproj", "{349A4D15-DBB2-45B2-B530-E44D35131F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndonSys.LedShow", "AndonSys.LedShow\AndonSys.LedShow.csproj", "{6474FE79-7A50-4BB1-BCE7-323A705DA8FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6C8BFD3-C530-4716-AF86-87881CDBA4B7}.Debug|x86.ActiveCfg = Debug|x86
+		{D6C8BFD3-C530-4716-AF86-87881CDBA4B7}.Debug|x86.Build.0 = Debug|x86
+		{D6C8BFD3-C530-4716-AF86-87881CDBA4B7}.Release|x86.ActiveCfg = Release|Any CPU
+		{678C7F95-0FD6-43A4-BE7E-DDD6CAFA9A56}.Debug|x86.ActiveCfg = Debug|x86
+		{678C7F95-0FD6-43A4-BE7E-DDD6CAFA9A56}.Debug|x86.Build.0 = Debug|x86
+		{678C7F95-0FD6-43A4-BE7E-DDD6CAFA9A56}.Release|x86.ActiveCfg = Release|Any CPU
+		{FAFB7B4E-72FD-4685-B4D4-984114594215}.Debug|x86.ActiveCfg = Debug|x86
+		{FAFB7B4E-72FD-4685-B4D4-984114594215}.Debug|x86.Build.0 = Debug|x86
+		{FAFB7B4E-72FD-4685-B4D4-984114594215}.Release|x86.ActiveCfg = Release|x86
+		{FAFB7B4E-72FD-4685-B4D4-984114594215}.Release|x86.Build.0 = Release|x86
+		{929749DF-53CE-4F4F-8FC3-0CC368FF8DAF}.Debug|x86.ActiveCfg = Debug|x86
+		{929749DF-53CE-4F4F-8FC3-0CC368FF8DAF}.Debug|x86.Build.0 = Debug|x86
+		{929749DF-53CE-4F4F-8FC3-0CC368FF8DAF}.Release|x86.ActiveCfg = Release|Any CPU
+		{EBCDD9BE-2B63-4DAA-BB18-C77E0FFF18ED}.Debug|x86.ActiveCfg = Debug|x86
+		{EBCDD9BE-2B63-4DAA-BB18-C77E0FFF18ED}.Debug|x86.Build.0 = Debug|x86
+		{EBCDD9BE-2B63-4DAA-BB18-C77E0FFF18ED}.Release|x86.ActiveCfg = Release|Any CPU
+		{36F3E7C0-A057-4139-8B02-EF43A3A91656}.Debug|x86.ActiveCfg = Debug|x86
+		{36F3E7C0-A057-4139-8B02-EF43A3A91656}.Debug|x86.Build.0 = Debug|x86
+		{36F3E7C0-A057-4139-8B02-EF43A3A91656}.Release|x86.ActiveCfg = Release|Any CPU
+		{56361434-98BE-4E50-9107-4C7160958A66}.Debug|x86.ActiveCfg = Debug|x86
+		{56361434-98BE-4E50-9107-4C7160958A66}.Debug|x86.Build.0 = Debug|x86
+		{56361434-98BE-4E50-9107-4C7160958A66}.Release|x86.ActiveCfg = Release|Any CPU
+		{6BEA9337-3D07-4BD0-8285-60E4FEF17085}.Debug|x86.ActiveCfg = Debug|x86
+		{6BEA9337-3D07-4BD0-8285-60E4FEF17085}.Debug|x86.Build.0 = Debug|x86
+		{6BEA9337-3D07-4BD0-8285-60E4FEF17085}.Release|x86.ActiveCfg = Release|Any CPU
+		{ADF81B3E-A843-4EA0-A865-B339FEE8A209}.Debug|x86.ActiveCfg = Debug|x86
+		{ADF81B3E-A843-4EA0-A865-B339FEE8A209}.Debug|x86.Build.0 = Debug|x86
+		{ADF81B3E-A843-4EA0-A865-B339FEE8A209}.Release|x86.ActiveCfg = Release|Any CPU
+		{1E7F88B6-AD3C-49F9-B2D8-3AD8FEC0831A}.Debug|x86.ActiveCfg = Debug|x86
+		{1E7F88B6-AD3C-49F9-B2D8-3AD8FEC0831A}.Debug|x86.Build.0 = Debug|x86
+		{1E7F88B6-AD3C-49F9-B2D8-3AD8FEC0831A}.Release|x86.ActiveCfg = Release|Any CPU
+		{349A4D15-DBB2-45B2-B530-E44D35131F0E}.Debug|x86.ActiveCfg = Debug|x86
+		{349A4D15-DBB2-45B2-B530-E44D35131F0E}.Debug|x86.Build.0 = Debug|x86
+		{349A4D15-DBB2-45B2-B530-E44D35131F0E}.Release|x86.ActiveCfg = Release|Any CPU
+		{6474FE79-7A50-4BB1-BCE7-323A705DA8FA}.Debug|x86.ActiveCfg = Debug|x86
+		{6474FE79-7A50-4BB1-BCE7-323A705DA8FA}.Debug|x86.Build.0 = Debug|x86
+		{6474FE79-7A50-4BB1-BCE7-323A705DA8FA}.Release|x86.ActiveCfg = Release|x86
+		{6474FE79-7A50-4BB1-BCE7-323A705DA8FA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
